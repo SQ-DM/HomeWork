@@ -31,7 +31,7 @@ for (let i = 0; i < 2; i++) {
 }
 appData.moneyPerDay = appData.budget / 30;
 
-//-------Цикл Wile
+//-------Цикл While
 // let i = 0;
 // while (i < 2) {
 //   let a = prompt("Введите обязательную статью расходов в этом месяце", "");
@@ -55,7 +55,7 @@ appData.moneyPerDay = appData.budget / 30;
 // }
 // appData.moneyPerDay = appData.budget / 30;
 
-// Цикл Do Wile
+// Цикл Do While
 // let i = 0;
 // do {
 //   let a = prompt("Введите обязательную статью расходов в этом месяце", "");
