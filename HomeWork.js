@@ -65,6 +65,7 @@ function chooseOptExpenses() {
 }
 chooseOptExpenses();
 
+
 // ----Функция расчета дневного бюджета
 function detectDayBudget() {
   appData.moneyPerDay = (appData.budget / 30).toFixed();
@@ -121,7 +122,11 @@ checkSavings();
 // }
 // appData.moneyPerDay = appData.budget / 30;
 
+<<<<<<< HEAD
 // ------Цикл Do While
+=======
+// Цикл Do While
+>>>>>>> 7b8fbd9cc2c9158e369fa1ea4eb5d8d49f03ea4c
 // let i = 0;
 // do {
 //   let a = prompt("Введите обязательную статью расходов в этом месяце", "");
